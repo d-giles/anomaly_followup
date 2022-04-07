@@ -1,0 +1,4 @@
+[submodule "PhaseFold"]
+	path = PhaseFold
+	url = https://github.com/yifantong1010/PhaseFold.git
+	branch = main
